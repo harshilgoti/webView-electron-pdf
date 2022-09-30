@@ -18,10 +18,10 @@
     global-agent "^3.0.0"
     global-tunnel-ng "^2.7.1"
 
-"@pdftron/webviewer@^8.0.0":
-  version "8.8.0"
-  resolved "https://registry.yarnpkg.com/@pdftron/webviewer/-/webviewer-8.8.0.tgz#95d3778a776951e82fad38a19fc2a130ee823daf"
-  integrity sha512-3oAX224ilOyVQOCdbWusV6w9O6Pay0ZBe3+c6AeWoY/ulRQNpKrNZ8bN2w3HaJIjEFmJkAQ9cAOUOkttD54VAw==
+"@pdftron/webviewer@^8.9.0":
+  version "8.9.0"
+  resolved "https://registry.yarnpkg.com/@pdftron/webviewer/-/webviewer-8.9.0.tgz#b319c6b0fe815ba1e3b81e6e9b6809796694c69c"
+  integrity sha512-lEFELp29yhiYpypYs360aqoyWEBNhk8Tq9hMnwXOnMaqsfZHOafKmWnba40aZVR8aKv2JK+7idEdwIrmRNGmMQ==
 
 "@sindresorhus/is@^0.14.0":
   version "0.14.0"
